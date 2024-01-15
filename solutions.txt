@@ -1,0 +1,3 @@
+If ERROR: Unable to extract uploader id.
+    pip uninstall youtube_dl
+    pip install git+https://github.com/ytdl-org/youtube-dl.git@master#egg=youtube_dl
